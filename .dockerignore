@@ -1,0 +1,14 @@
+.git
+.gitignore
+__pycache__/
+*.pyc
+.venv/
+venv/
+temp_uploads/
+output/
+*.docx
+*.xlsx
+*.xls
+启动.bat
+test_api.py
+README.md
